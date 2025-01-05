@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Nurtilek, a Kazakhstan Java Developer 👋🏼:
+# Hello World!, I'm Nurtilek, a Java Developer 👋🏼:
 🛜 currently solving a leetcode problem<br>
 👨🏼‍🎓 studying computer engineering<br>
 👨🏼‍💻 working as a developer since 2021 <br>
