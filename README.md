@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Nurtilek, a Kazakhstan Java Developer 👋🏼:
 🛜 currently solving a leetcode problem<br>
