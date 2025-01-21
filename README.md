@@ -1,10 +1,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.hiptoro.com/wp-content/uploads/2021/12/WKNp0ko6PKaNJCOY1L4Y.gif">
 
-# Hello World!, I'm Nurtilek, a Java Developer 👋🏼:
+# Hello World!, I'm Nureke a Java Developer 👋🏼:
 🛜 currently solving a leetcode problem<br>
 👨🏼‍🎓 studying computer engineering<br>
-👨🏼‍💻 working as a developer since 2021 <br>
+👨🏼‍💻 working as a developer since 2022 <br>
 📫 ask about anything by email: beisenbaynurtilek1@gmail.com
 
 
